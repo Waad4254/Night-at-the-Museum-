@@ -16,5 +16,9 @@ This project presents a gallery of some VR applications throughout different fie
 - Target Platform: Android -
 
 
+Write Up Link:
+https://waadfahad.myportfolio.com/vr-gallery
+
+
 
 
