@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: ed03fc52fb1bf694290151b7a8c3fe36
+timeCreated: 1548442359
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _23
+    100002: _3
+    100004: _5
+    100006: _8
+    100008: basket
+    100010: cart
+    100012: //RootNode
+    100014: door
+    100016: lfcaster
+    100018: lfrim
+    100020: lrcaster
+    100022: lrrim
+    100024: Object01
+    100026: Object02
+    100028: Plane01
+    100030: rack
+    100032: rfcastr0
+    100034: rfcastr1
+    100036: rfrim
+    100038: rrcastr0
+    100040: rrcastr1
+    100042: rrrim
+    100044: u
+    100046: wire1
+    400000: _23
+    400002: _3
+    400004: _5
+    400006: _8
+    400008: basket
+    400010: cart
+    400012: //RootNode
+    400014: door
+    400016: lfcaster
+    400018: lfrim
+    400020: lrcaster
+    400022: lrrim
+    400024: Object01
+    400026: Object02
+    400028: Plane01
+    400030: rack
+    400032: rfcastr0
+    400034: rfcastr1
+    400036: rfrim
+    400038: rrcastr0
+    400040: rrcastr1
+    400042: rrrim
+    400044: u
+    400046: wire1
+    2100000: _23Mat
+    2100002: _3Mat
+    2100004: _5Mat
+    2100006: _8Mat
+    2100008: basketMat
+    2100010: cartMat
+    2100012: doorMat
+    2100014: lfcasterMat
+    2100016: lfrimMat
+    2100018: lrcasterMat
+    2100020: lrrimMat
+    2100022: Object01Mat
+    2100024: Object02Mat
+    2100026: Plane01Mat
+    2100028: rackMat
+    2100030: rfcastr0Mat
+    2100032: rfcastr1Mat
+    2100034: rfrimMat
+    2100036: rrcastr0Mat
+    2100038: rrcastr1Mat
+    2100040: rrrimMat
+    2100042: uMat
+    2100044: wire1Mat
+    2300000: _23
+    2300002: _3
+    2300004: _5
+    2300006: _8
+    2300008: basket
+    2300010: cart
+    2300012: door
+    2300014: lfcaster
+    2300016: lfrim
+    2300018: lrcaster
+    2300020: lrrim
+    2300022: Object01
+    2300024: Object02
+    2300026: Plane01
+    2300028: rack
+    2300030: rfcastr0
+    2300032: rfcastr1
+    2300034: rfrim
+    2300036: rrcastr0
+    2300038: rrcastr1
+    2300040: rrrim
+    2300042: u
+    2300044: wire1
+    3300000: _23
+    3300002: _3
+    3300004: _5
+    3300006: _8
+    3300008: basket
+    3300010: cart
+    3300012: door
+    3300014: lfcaster
+    3300016: lfrim
+    3300018: lrcaster
+    3300020: lrrim
+    3300022: Object01
+    3300024: Object02
+    3300026: Plane01
+    3300028: rack
+    3300030: rfcastr0
+    3300032: rfcastr1
+    3300034: rfrim
+    3300036: rrcastr0
+    3300038: rrcastr1
+    3300040: rrrim
+    3300042: u
+    3300044: wire1
+    4300000: _23
+    4300002: _3
+    4300004: _5
+    4300006: _8
+    4300008: basket
+    4300010: cart
+    4300012: door
+    4300014: lfcaster
+    4300016: lfrim
+    4300018: lrcaster
+    4300020: lrrim
+    4300022: Object01
+    4300024: Object02
+    4300026: Plane01
+    4300028: rack
+    4300030: rfcastr0
+    4300032: rfcastr1
+    4300034: rfrim
+    4300036: rrcastr0
+    4300038: rrcastr1
+    4300040: rrrim
+    4300042: u
+    4300044: wire1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
